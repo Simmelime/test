@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, "Helvetica", sans-serif;
+  font-size: 20px;
+}
+.dropdown-item {
+  font-family: Helvetica;
+}
+.text-danger {
+  color: red;
+}
+.text-primary {
+  color: blue;
+}
+.text-success {
+  color: green;
+}
+.text-secondary {
+  color: gray;
+}
